@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am rksumanthraju on github.
+  * I am rksumanthraju (https://keybase.io/rksumanthraju) on keybase.
+  * I have a public key ASA6cUMmTpEq_ULKm1tZleyVW-p3fKdoq84x2_3xg8Wlwwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203a7143264e912afd42ca9b5b5995ec955bea777ca768abce31dbfdf183c5a5c30a",
+      "host": "keybase.io",
+      "kid": "01203a7143264e912afd42ca9b5b5995ec955bea777ca768abce31dbfdf183c5a5c30a",
+      "uid": "5a5dbb6961e70114ee803207cd8d5119",
+      "username": "rksumanthraju"
+    },
+    "merkle_root": {
+      "ctime": 1568053235,
+      "hash": "ff8af3b0de12ed3610b816d2a9a90204889fc392b556e6a00e52aebf16821f5d16e02ddeab8f1e6e54bdc44ddb1c98670a31bc4bcac2bb55f07a9aa16127df61",
+      "hash_meta": "a002589cb1cd8594037c059998eafcc5fc54a381b2653878007553a3ab1a461f",
+      "seqno": 6225519
+    },
+    "service": {
+      "entropy": "JYw+dGy+U5P6Bz+UaXXfAWvF",
+      "name": "github",
+      "username": "rksumanthraju"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568053244,
+  "expire_in": 504576000,
+  "prev": "9b81236ffb1c491d24c56c8526e54f39bd9f4d3349239843602f8db2b5ee485e",
+  "seqno": 13,
+  "tag": "signature"
+}
+```
+
+with the key [ASA6cUMmTpEq_ULKm1tZleyVW-p3fKdoq84x2_3xg8Wlwwo](https://keybase.io/rksumanthraju), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOnFDJk6RKv1CyptbWZXslVvqd3ynaKvOMdv98YPFpcMKp3BheWxvYWTESpcCDcQgm4Ejb/scSR0kxWyFJuVPOb2fTTNJI5hDYC+NsrXuSF7EIL0dZY1VSkzzaAm5RQo4qSw+/cUHfxDDcZe4ROLnPbe1AgHCo3NpZ8RADD4SvE0wrwHYL0pmSRrxUEp6HSov4Mpn2rtW92D8HjmKI8Wl27VzSPT12cAcdOj9Zt6NLfNpDj8sphX8a7FgBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBv0Y73wiP0tZqo7HAMKgfXNf4EBVGFzNPE8mlDTLuEjo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/rksumanthraju
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id rksumanthraju
+```
